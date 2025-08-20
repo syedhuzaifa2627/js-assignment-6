@@ -121,14 +121,14 @@
 
 // Question 9
 
-var findSmallOne = [24, 53, 78, 91, 34]
-var smallest = findSmallOne[0]
+// var findSmallOne = [24, 53, 78, 91, 34]
+// var smallest = findSmallOne[0]
 
-for(var i = 1;i >= findSmallOne.length; i++) {
-  if (findSmallOne[i] > smallest) {
-    smallest = findSmallOne[i]
-  }
-}
+// for(var i = 1;i >= findSmallOne.length; i++) {
+//  if (findSmallOne[i] > smallest) {
+//    smallest = findSmallOne[i]
+//  }
+// }
 
-document.writeln("Array items: " + findSmallOne.join(", ") + "<br>")
-document.writeln("The smallest number is " + smallest)
+// document.writeln("Array items: " + findSmallOne.join(", ") + "<br>")
+// document.writeln("The smallest number is " + smallest)
